@@ -79,7 +79,7 @@ function formatDate(date: Date) {
                   {formatDate(post.data.publishDate)}
                 </time>
                 <h2 class="card-title hover:text-primary transition-colors">
-                  <a href={`/blog/${post.id}`}>{post.data.title}</a>
+                    <a href={`/blog-git/blog/${post.id}`}>{post.data.title}</a>
                 </h2>
                 <p class="text-base-content/80">{post.data.description}</p>
                 {post.data.tags && post.data.tags.length > 0 && (
@@ -90,7 +90,7 @@ function formatDate(date: Date) {
                   </div>
                 )}
                 <div class="card-actions justify-end mt-4">
-                  <a href={`/blog/${post.id}`} class="btn btn-primary btn-sm">
+                    <a href={`/blog-git/blog/${post.id}`} class="btn btn-primary btn-sm">
                       Ler mais
                   </a>
                 </div>
