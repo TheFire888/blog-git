@@ -10,6 +10,7 @@ export default defineConfig({
   base: '/blog-git/',
   integrations: [mdx()],
   vite: {
-    plugins: [tailwindcss()]
+    plugins: [tailwindcss()],
+    base: '/blog-git/',
   }
 });
