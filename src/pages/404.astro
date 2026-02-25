@@ -1,0 +1,47 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { House, FolderOpen } from "@lucide/astro";
+---
+
+<Layout
+  title="404 - Page Not Found"
+  description="A página que você está procurando não existe."
+>
+  <div class="min-h-screen flex items-center justify-center px-4 py-20">
+    <div class="text-center max-w-2xl mx-auto">
+      <!-- Large 404 Number -->
+      <h1 class="text-9xl font-bold text-primary mb-4 animate-pulse">404</h1>
+
+      <!-- Error Title -->
+      <h2 class="text-4xl font-bold mb-4">🥀 Página não encontrada</h2>
+
+      <!-- Error Description -->
+      <p class="text-xl mb-8 text-base-content/70">
+      Ups! A página que você está procurando não existe ou foi movida. Vamos colocar você de volta no caminho certo.
+      </p>
+
+      <!-- Divider -->
+      <div class="divider"></div>
+
+      <!-- Action Buttons -->
+      <div class="flex gap-4 justify-center flex-wrap mt-8">
+        <a href="/" class="btn btn-primary gap-2">
+          <House class="size-5" />
+          Ir para a página inicial
+        </a>
+      </div>
+
+      <!-- Helpful Links -->
+      <div class="flex justify-center gap-2 mt-12">
+        <p class="text-sm text-base-content/60 mb-4">
+        Talvez você esteja procurando por:
+        </p>
+        <div class="flex gap-3 justify-center flex-wrap text-sm">
+          <a href="/blog" class="link link-hover">Blog</a>
+          <span class="text-base-content/30">•</span>
+          <a href="/#about" class="link link-hover">Sobre mim</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
