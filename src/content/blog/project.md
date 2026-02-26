@@ -1,16 +1,20 @@
 ---
-title: "Plasmídeos: tentando agrupar e categorizar elementos genéticos móveis"
-description: "none"
+title: "Sobre a minha IC"
+description: "Como eu vim parar aqui e o que me fez continuar"
 image: "./plasmid.jpg"
 publishDate: "2025-11-20"
 tags: ["Plasmídeos", "Grafos", "Agrupamento", "Pesquisa"]
 ---
 
-Como eu descobri esse projeto e por que estou interessado nele
+Há aproximadamente seis meses, eu decidi que queria fazer uma iniciação científica. Por acaso, o IQ-USP tinha acabado de contratar um professor que estava procurando por alunos na área de bioinformática. E, também por acaso, eu tinha desenvolvido um pequeno interesse nesse assunto que une Computação e Biologia. Então, decidi entrar em contato com esse professor e agendamos uma reunião. Conversamos bastante nesse dia e, incrivelmente ou não, ele não exigiu que eu demonstrasse nenhum conhecimento prévio e me chamou para escrever um projeto, já que as inscrições para o PIBIC estavam abertas. E foi assim que eu vim parar aqui.
 
-Quais meus objetivos finais
+Eu tinha cerca de duas semanas para enviar o projeto. Se você já teve que escrever algum projeto antes, sabe que isso é uma quantidade de tempo absurdamente curta, principalmente para uma área que você acabou de ingressar. Dito isso, eu aceitei o desafio e comecei a pesquisar temas, peguei artigos anteriores desse professor e dei uma olhada no projeto dele aqui na USP. No meio do caminho tivemos mais reuniões e, finalmente, conseguimos um tema: "Classificação Hierárquica de Plasmídeos".
+
+Meu objetivo com esse texto é te explicar, caro leitor, um pouco sobre o que eu descobri nesse tema, meu progresso e meus desafios. Espero que tenha uma boa leitura!
 
 ## Legal! Mas o que são plasmídeos?
+
+![Alt text for the image](../assets/plasmid_in_bacteria.svg "Optional title")
 
 Dar a definição formal e, em seguida, descrever de forma mais simplificada. Seria útil colocar uma imagem que exemplifique esses elementos dentro de uma bactéria.
 
