@@ -14,7 +14,7 @@ Meu objetivo com esse texto é te explicar, caro leitor, um pouco sobre o que eu
 
 ## Legal! Mas o que são plasmídeos?
 
-![Alt text for the image](../../assets/plasmid_in_bacteria.svg "Optional title")
+![A imagem mostra uma bactéria com um cromossomo (estrutura emaranhada e maior) e um par de plasmídeos (estruturas circulares)](../../assets/plasmid_in_bacteria.svg)
 
 Dar a definição formal e, em seguida, descrever de forma mais simplificada. Seria útil colocar uma imagem que exemplifique esses elementos dentro de uma bactéria.
 
